@@ -1,1 +1,1 @@
-# automatScript
+Manage Bitbucket
